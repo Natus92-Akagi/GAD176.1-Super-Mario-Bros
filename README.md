@@ -1,2 +1,8 @@
 # GAD176.1-Super-Mario-Bros
 GAD176.1 project 
+
+This project is a comprehensive remake of the classic Super Mario Bros., originally released in 1985. As part of the SAE GAD176 Project 1 submission, this remake will not only faithfully replicate the gameplay mechanics and rule sets of the original, such as maintaining a three-life system and incorporating the iconic underwater music during the final stage in World 8-4, but it also aims to enhance the overall gaming experience with modern graphics.
+
+The artwork will be a distinctive blend of 3D and 2D styles, featuring physically based rendering (PBR) to achieve a striking visual quality. Key elements such as the hills and Goomba pillars will be designed in 3D, providing a rich depth to the environment, while the remaining artwork will maintain a 2D aesthetic, effectively marrying nostalgic gameplay with contemporary design techniques. Iconic characters like Mario, Luigi, Bowser, Princess Peach, and Toad will all receive a PBR makeover, showcasing their classic forms with updated textures and lighting effects that bring them to life in a new way.
+
+To ensure the game looks stunning on modern 4K displays, the resolution has been up scaled to 1024x960. This scaling preserves the essence of the original pixel art while enhancing its clarity and vibrancy. Although the sprites may evoke a 16-bit feel due to their rich colour palettes and intricate designs, they will be built using 64-bit technology, allowing for smoother animations and more detailed graphics. This remake aims not just to pay homage to the beloved original but to provide players with a nostalgic yet fresh gaming experience. 
