@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 91942b4a0b67cc04c90c85a5b2b51345
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7511234622351706876
+    second: Shinking_ambient_0
+  - first:
+      213: -8787899862528722813
+    second: Shinking_ambient_1
+  - first:
+      213: 2916353538154106632
+    second: Shinking_ambient_2
+  - first:
+      213: 3485563898572156676
+    second: Shinking_ambient_3
+  - first:
+      213: -6444976014170124888
+    second: Shinking_ambient_4
+  - first:
+      213: -2738000527963754059
+    second: Shinking_ambient_5
+  - first:
+      213: 1711062774613798015
+    second: Shinking_ambient_6
+  - first:
+      213: 6355889853607470349
+    second: Shinking_ambient_7
+  - first:
+      213: 4277942867338463279
+    second: Shinking_ambient_8
+  - first:
+      213: 8128138843916539081
+    second: Shinking_ambient_9
+  - first:
+      213: -7072116661341098024
+    second: Shinking_ambient_10
+  - first:
+      213: -8364217516042897961
+    second: Shinking_ambient_11
+  - first:
+      213: -2558347108755058607
+    second: Shinking_ambient_12
+  - first:
+      213: -6228061117827441461
+    second: Shinking_ambient_13
+  - first:
+      213: -34796063870118455
+    second: Shinking_ambient_14
+  - first:
+      213: 3674375280451165874
+    second: Shinking_ambient_15
+  - first:
+      213: 2112615355896346554
+    second: Shinking_ambient_16
+  - first:
+      213: 7155287937173254624
+    second: Shinking_ambient_17
+  - first:
+      213: 2930662668382271526
+    second: Shinking_ambient_18
+  - first:
+      213: 9166847386332178636
+    second: Shinking_ambient_19
+  - first:
+      213: 6255466928642054351
+    second: Shinking_ambient_20
+  - first:
+      213: 3681116264388952154
+    second: Shinking_ambient_21
+  - first:
+      213: -17423176178627256
+    second: Shinking_ambient_22
+  - first:
+      213: 4259324015401411120
+    second: Shinking_ambient_23
+  - first:
+      213: 4104112979179092509
+    second: Shinking_ambient_24
+  - first:
+      213: 5683624794181397432
+    second: Shinking_ambient_25
+  - first:
+      213: -1758827333137877874
+    second: Shinking_ambient_26
+  - first:
+      213: 2302313519928605679
+    second: Shinking_ambient_27
+  - first:
+      213: 6520031808908740793
+    second: Shinking_ambient_28
+  - first:
+      213: -3936649708087742397
+    second: Shinking_ambient_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shinking_ambient_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 67
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa83e1c7144d3860800000000000000
+      internalID: 7511234622351706876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 66
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3887544a2ab1b0680800000000000000
+      internalID: -8787899862528722813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f01296718f87820800000000000000
+      internalID: 2916353538154106632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fa15006e53f5030800000000000000
+      internalID: 3485563898572156676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad0a794678de86a0800000000000000
+      internalID: -6444976014170124888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b173efb60ba00ad0800000000000000
+      internalID: -2738000527963754059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cef35278aeeb710800000000000000
+      internalID: 1711062774613798015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0568cb9528a43850800000000000000
+      internalID: 6355889853607470349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2800215f5e4e5b30800000000000000
+      internalID: 4277942867338463279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c413bcb633fcc070800000000000000
+      internalID: 8128138843916539081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df64aebd5bcadd90800000000000000
+      internalID: -7072116661341098024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_11
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5b9241c745ceb80800000000000000
+      internalID: -8364217516042897961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_12
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150d18afbdcee7cd0800000000000000
+      internalID: -2558347108755058607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc1978396b7199a0800000000000000
+      internalID: -6228061117827441461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5907d0a21648ff0800000000000000
+      internalID: -34796063870118455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be94c299d00ef230800000000000000
+      internalID: 3674375280451165874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_16
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7bc3b1974815d10800000000000000
+      internalID: 2112615355896346554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_17
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 30
+        width: 65
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e179d0f770bc4360800000000000000
+      internalID: 7155287937173254624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_18
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287c696b2ecba820800000000000000
+      internalID: 2930662668382271526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_19
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc82c8c312f273f70800000000000000
+      internalID: 9166847386332178636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_20
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d9e95702efc650800000000000000
+      internalID: 6255466928642054351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_21
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5001d33db3f51330800000000000000
+      internalID: 3681116264388952154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_22
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d830da6b912cff0800000000000000
+      internalID: -17423176178627256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_23
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032aa4900a82c1b30800000000000000
+      internalID: 4259324015401411120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_24
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3a02920db4f830800000000000000
+      internalID: 4104112979179092509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_25
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbe8cd13aa40ee40800000000000000
+      internalID: 5683624794181397432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_26
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84b113fbd36797e0800000000000000
+      internalID: -1758827333137877874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_27
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 11
+        width: 66
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb7cecb2f573ff10800000000000000
+      internalID: 2302313519928605679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_28
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c046b26ecb7a50800000000000000
+      internalID: 6520031808908740793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_ambient_29
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 30
+        width: 68
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340f840a2f53e59c0800000000000000
+      internalID: -3936649708087742397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: beee4838136ea4c49aa056af7301b3f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shinking_ambient_0: 7511234622351706876
+      Shinking_ambient_1: -8787899862528722813
+      Shinking_ambient_10: -7072116661341098024
+      Shinking_ambient_11: -8364217516042897961
+      Shinking_ambient_12: -2558347108755058607
+      Shinking_ambient_13: -6228061117827441461
+      Shinking_ambient_14: -34796063870118455
+      Shinking_ambient_15: 3674375280451165874
+      Shinking_ambient_16: 2112615355896346554
+      Shinking_ambient_17: 7155287937173254624
+      Shinking_ambient_18: 2930662668382271526
+      Shinking_ambient_19: 9166847386332178636
+      Shinking_ambient_2: 2916353538154106632
+      Shinking_ambient_20: 6255466928642054351
+      Shinking_ambient_21: 3681116264388952154
+      Shinking_ambient_22: -17423176178627256
+      Shinking_ambient_23: 4259324015401411120
+      Shinking_ambient_24: 4104112979179092509
+      Shinking_ambient_25: 5683624794181397432
+      Shinking_ambient_26: -1758827333137877874
+      Shinking_ambient_27: 2302313519928605679
+      Shinking_ambient_28: 6520031808908740793
+      Shinking_ambient_29: -3936649708087742397
+      Shinking_ambient_3: 3485563898572156676
+      Shinking_ambient_4: -6444976014170124888
+      Shinking_ambient_5: -2738000527963754059
+      Shinking_ambient_6: 1711062774613798015
+      Shinking_ambient_7: 6355889853607470349
+      Shinking_ambient_8: 4277942867338463279
+      Shinking_ambient_9: 8128138843916539081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

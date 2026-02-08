@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 81cee7ee45449a14daddd4c27d451838
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6721504275654740431
+    second: marioIdleFireTransmation_normal_0
+  - first:
+      213: -1482295678416910141
+    second: marioIdleFireTransmation_normal_1
+  - first:
+      213: 9098289884802232980
+    second: marioIdleFireTransmation_normal_2
+  - first:
+      213: 5592844183817176711
+    second: marioIdleFireTransmation_normal_3
+  - first:
+      213: -7987707728997353236
+    second: marioIdleFireTransmation_normal_4
+  - first:
+      213: 7595370978331575032
+    second: marioIdleFireTransmation_normal_5
+  - first:
+      213: -1999372059951410020
+    second: marioIdleFireTransmation_normal_6
+  - first:
+      213: 558929572610681873
+    second: marioIdleFireTransmation_normal_7
+  - first:
+      213: 371025968620872723
+    second: marioIdleFireTransmation_normal_8
+  - first:
+      213: -2166840622697345922
+    second: marioIdleFireTransmation_normal_9
+  - first:
+      213: -8404327433018377587
+    second: marioIdleFireTransmation_normal_10
+  - first:
+      213: -4640915408036190712
+    second: marioIdleFireTransmation_normal_11
+  - first:
+      213: -435697764571594653
+    second: marioIdleFireTransmation_normal_12
+  - first:
+      213: -1598863024018826462
+    second: marioIdleFireTransmation_normal_13
+  - first:
+      213: -6153966181397807319
+    second: marioIdleFireTransmation_normal_14
+  - first:
+      213: -2374762145737128762
+    second: marioIdleFireTransmation_normal_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98ba2d684974d50800000000000000
+      internalID: 6721504275654740431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c80ddb1fe3dd6be0800000000000000
+      internalID: -1482295678416910141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492ba27027e934e70800000000000000
+      internalID: 9098289884802232980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786488c2726cd9d40800000000000000
+      internalID: 5592844183817176711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce878732426f52190800000000000000
+      internalID: -7987707728997353236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2c3cca9ad286960800000000000000
+      internalID: 7595370978331575032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9451c064bdc044e0800000000000000
+      internalID: -1999372059951410020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cabe52c77b1c700800000000000000
+      internalID: 558929572610681873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314a7161726262500800000000000000
+      internalID: 371025968620872723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c0d3f1fe5dde1e0800000000000000
+      internalID: -2166840622697345922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7eda4ab4dd5b80800000000000000
+      internalID: -8404327433018377587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_11
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ad576608289fb0800000000000000
+      internalID: -4640915408036190712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_12
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604749013714f9f0800000000000000
+      internalID: -435697764571594653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd9d00d82bfc9e0800000000000000
+      internalID: -1598863024018826462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_14
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f3406fc58b89aa0800000000000000
+      internalID: -6153966181397807319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioIdleFireTransmation_normal_15
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 4
+        width: 56
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44b4519662b0fd0800000000000000
+      internalID: -2374762145737128762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2aa2f90d78d351d40a59932e6c436135
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marioIdleFireTransmation_normal_0: 6721504275654740431
+      marioIdleFireTransmation_normal_1: -1482295678416910141
+      marioIdleFireTransmation_normal_10: -8404327433018377587
+      marioIdleFireTransmation_normal_11: -4640915408036190712
+      marioIdleFireTransmation_normal_12: -435697764571594653
+      marioIdleFireTransmation_normal_13: -1598863024018826462
+      marioIdleFireTransmation_normal_14: -6153966181397807319
+      marioIdleFireTransmation_normal_15: -2374762145737128762
+      marioIdleFireTransmation_normal_2: 9098289884802232980
+      marioIdleFireTransmation_normal_3: 5592844183817176711
+      marioIdleFireTransmation_normal_4: -7987707728997353236
+      marioIdleFireTransmation_normal_5: 7595370978331575032
+      marioIdleFireTransmation_normal_6: -1999372059951410020
+      marioIdleFireTransmation_normal_7: 558929572610681873
+      marioIdleFireTransmation_normal_8: 371025968620872723
+      marioIdleFireTransmation_normal_9: -2166840622697345922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

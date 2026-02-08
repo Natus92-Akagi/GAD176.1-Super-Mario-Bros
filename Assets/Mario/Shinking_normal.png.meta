@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 2f44d84b290488b4ba897456e8c56deb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7063922373927304766
+    second: Shinking_normal_0
+  - first:
+      213: -5232854901472208831
+    second: Shinking_normal_1
+  - first:
+      213: 1351639260742586533
+    second: Shinking_normal_2
+  - first:
+      213: 353117455343444631
+    second: Shinking_normal_3
+  - first:
+      213: -1248573618903025254
+    second: Shinking_normal_4
+  - first:
+      213: 4132758947016499420
+    second: Shinking_normal_5
+  - first:
+      213: 6636127184365285084
+    second: Shinking_normal_6
+  - first:
+      213: -4444194182716361465
+    second: Shinking_normal_7
+  - first:
+      213: 799851530930640550
+    second: Shinking_normal_8
+  - first:
+      213: 679040250515922179
+    second: Shinking_normal_9
+  - first:
+      213: -3079881982714219971
+    second: Shinking_normal_10
+  - first:
+      213: 9110369949754131214
+    second: Shinking_normal_11
+  - first:
+      213: 1763529038742218253
+    second: Shinking_normal_12
+  - first:
+      213: 3037242667435677492
+    second: Shinking_normal_13
+  - first:
+      213: 7878515864149601232
+    second: Shinking_normal_14
+  - first:
+      213: -3700077927426338522
+    second: Shinking_normal_15
+  - first:
+      213: 531687509270304572
+    second: Shinking_normal_16
+  - first:
+      213: -1896695443327874847
+    second: Shinking_normal_17
+  - first:
+      213: 3671850222221069288
+    second: Shinking_normal_18
+  - first:
+      213: -1084452150735814006
+    second: Shinking_normal_19
+  - first:
+      213: -8466263308783952439
+    second: Shinking_normal_20
+  - first:
+      213: -6835866080162907534
+    second: Shinking_normal_21
+  - first:
+      213: -9015408155487091329
+    second: Shinking_normal_22
+  - first:
+      213: 1601831438300895817
+    second: Shinking_normal_23
+  - first:
+      213: -4503830582433692489
+    second: Shinking_normal_24
+  - first:
+      213: 8843792489209748447
+    second: Shinking_normal_25
+  - first:
+      213: -3892730737639336064
+    second: Shinking_normal_26
+  - first:
+      213: 3152306622422266884
+    second: Shinking_normal_27
+  - first:
+      213: -1233187155975499033
+    second: Shinking_normal_28
+  - first:
+      213: -5617775061242225492
+    second: Shinking_normal_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shinking_normal_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 67
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c10125f608e7fd90800000000000000
+      internalID: -7063922373927304766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 66
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1485694213a2167b0800000000000000
+      internalID: -5232854901472208831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a098011fbcf1c210800000000000000
+      internalID: 1351639260742586533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7926cb9647686e400800000000000000
+      internalID: 353117455343444631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a997c59a8ec2caee0800000000000000
+      internalID: -1248573618903025254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd06c33bd528a5930800000000000000
+      internalID: 4132758947016499420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdee764b382481c50800000000000000
+      internalID: 6636127184365285084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705755aefec0352c0800000000000000
+      internalID: -4444194182716361465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a65c26cab4a91b00800000000000000
+      internalID: 799851530930640550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d9138928f6c6900800000000000000
+      internalID: 679040250515922179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32713697af0245d0800000000000000
+      internalID: -3079881982714219971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_11
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e030d7353398e6e70800000000000000
+      internalID: 9110369949754131214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_12
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e0513150597810800000000000000
+      internalID: 1763529038742218253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d9213d14762a20800000000000000
+      internalID: 3037242667435677492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbaaefaf6c165d60800000000000000
+      internalID: 7878515864149601232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6215d769abea6acc0800000000000000
+      internalID: -3700077927426338522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_16
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37919109fee06700800000000000000
+      internalID: 531687509270304572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_17
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 30
+        width: 65
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8075d1b859da5e0800000000000000
+      internalID: -1896695443327874847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_18
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb0de3a25805f230800000000000000
+      internalID: 3671850222221069288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_19
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82cb7bb38043f0f0800000000000000
+      internalID: -1084452150735814006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_20
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5209706ac18a80800000000000000
+      internalID: -8466263308783952439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_21
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a7fbf94002221a0800000000000000
+      internalID: -6835866080162907534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_22
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75480b5c06d2e280800000000000000
+      internalID: -9015408155487091329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_23
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 11
+        width: 67
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a5afdc439da3610800000000000000
+      internalID: 1601831438300895817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_24
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4cf7592fd2f71c0800000000000000
+      internalID: -4503830582433692489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_25
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 30
+        width: 67
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5d9a99667bba70800000000000000
+      internalID: 8843792489209748447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_26
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 11
+        width: 68
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08753c8c40e3af9c0800000000000000
+      internalID: -3892730737639336064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_27
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 11
+        width: 66
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4043794eb2e3fbb20800000000000000
+      internalID: 3152306622422266884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_28
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 30
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2918ab0d6d2eee0800000000000000
+      internalID: -1233187155975499033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shinking_normal_29
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 30
+        width: 68
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacdb969857a902b0800000000000000
+      internalID: -5617775061242225492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 176ec5d89b1b5d9489ef89efb6c89b69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shinking_normal_0: -7063922373927304766
+      Shinking_normal_1: -5232854901472208831
+      Shinking_normal_10: -3079881982714219971
+      Shinking_normal_11: 9110369949754131214
+      Shinking_normal_12: 1763529038742218253
+      Shinking_normal_13: 3037242667435677492
+      Shinking_normal_14: 7878515864149601232
+      Shinking_normal_15: -3700077927426338522
+      Shinking_normal_16: 531687509270304572
+      Shinking_normal_17: -1896695443327874847
+      Shinking_normal_18: 3671850222221069288
+      Shinking_normal_19: -1084452150735814006
+      Shinking_normal_2: 1351639260742586533
+      Shinking_normal_20: -8466263308783952439
+      Shinking_normal_21: -6835866080162907534
+      Shinking_normal_22: -9015408155487091329
+      Shinking_normal_23: 1601831438300895817
+      Shinking_normal_24: -4503830582433692489
+      Shinking_normal_25: 8843792489209748447
+      Shinking_normal_26: -3892730737639336064
+      Shinking_normal_27: 3152306622422266884
+      Shinking_normal_28: -1233187155975499033
+      Shinking_normal_29: -5617775061242225492
+      Shinking_normal_3: 353117455343444631
+      Shinking_normal_4: -1248573618903025254
+      Shinking_normal_5: 4132758947016499420
+      Shinking_normal_6: 6636127184365285084
+      Shinking_normal_7: -4444194182716361465
+      Shinking_normal_8: 799851530930640550
+      Shinking_normal_9: 679040250515922179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
