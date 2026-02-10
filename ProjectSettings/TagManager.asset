@@ -41,11 +41,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Backgroud
+    uniqueID: 2668387647
+    locked: 0
   - name: Ground
     uniqueID: 4220369097
     locked: 0
   - name: Interactive
     uniqueID: 664465991
+    locked: 0
+  - name: Pipe
+    uniqueID: 2059320385
     locked: 0
   m_RenderingLayers:
   - Default
