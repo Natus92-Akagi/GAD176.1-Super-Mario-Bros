@@ -47,6 +47,9 @@ TagManager:
   - name: Ground
     uniqueID: 4220369097
     locked: 0
+  - name: Buildings
+    uniqueID: 911103345
+    locked: 0
   - name: Interactive
     uniqueID: 664465991
     locked: 0
