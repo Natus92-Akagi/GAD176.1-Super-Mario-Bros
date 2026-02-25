@@ -109,13 +109,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1626579649
   m_SortingLayer: 1
-  m_SortingOrder: 0
+  m_SortingOrder: -2
   m_Sprite: {fileID: 8903608049025104197, guid: 3733e096e9953cc4d892856d131a1c52, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 32, y: 11}
+  m_DrawMode: 2
+  m_Size: {x: 226.99998, y: 11}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -169,7 +169,7 @@ Transform:
   m_GameObject: {fileID: 4949641520542863834}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 111, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -195,13 +195,13 @@ MonoBehaviour:
   m_Intensity: 3
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 000000003f5d0c9fc9b88dfb47f29a27
+  m_ApplyToSortingLayers: 000000003f5d0c9fc9b88dfb71554e3647f29a2741bcbe7a
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
   m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
-  m_NormalMapDistance: 2.5
+  m_NormalMapDistance: 3
   m_NormalMapQuality: 1
   m_UseNormalMap: 0
   m_ShadowsEnabled: 1
@@ -211,8 +211,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 15.999749, y: -5.0001, z: 0}
-    m_Extent: {x: 16.50045, y: 5.5009003, z: 0}
+    m_Center: {x: 2.4997482, y: -5.5001, z: 0}
+    m_Extent: {x: 114.00045, y: 6.0009003, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_ShapeLightFalloffSize: 0.5
   m_ShapeLightFalloffOffset: {x: 0, y: 0}
   m_ShapePath:
-  - {x: 0, y: -10, z: 0}
-  - {x: 32, y: -10, z: 0}
-  - {x: 32, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
+  - {x: -111, y: -11, z: 0}
+  - {x: 116, y: -11, z: 0}
+  - {x: 116, y: 0, z: 0}
+  - {x: -111, y: 0, z: 0}

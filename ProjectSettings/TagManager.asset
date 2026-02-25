@@ -59,5 +59,8 @@ TagManager:
   - name: Water
     uniqueID: 3468736497
     locked: 0
+  - name: Snow
+    uniqueID: 2858131891
+    locked: 0
   m_RenderingLayers:
   - Default
