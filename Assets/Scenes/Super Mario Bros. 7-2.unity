@@ -180,7 +180,7 @@ SpriteRenderer:
   m_SortingLayerID: 2059320385
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: d54899f214fb66149bb8bfa31deac658, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b3b5f2d0f64cba545b24cef3797c9b71, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -206,6 +206,71 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &105507211
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3230832470546131612, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_Name
+      value: 'Snow '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 80.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848374733062180828, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9094382318082887192, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: ShapeModule.m_Scale.x
+      value: 193
+      objectReference: {fileID: 0}
+    - target: {fileID: 9094382318082887192, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
+      propertyPath: VelocityModule.orbitalY.scalar
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0a0b4566887bfdb4abb7becd09936068, type: 3}
 --- !u!1 &105628084
 GameObject:
   m_ObjectHideFlags: 0
@@ -8447,5 +8512,6 @@ SceneRoots:
   - {fileID: 740315922}
   - {fileID: 1582431676}
   - {fileID: 510363972}
-  - {fileID: 57374002}
   - {fileID: 450023194}
+  - {fileID: 57374002}
+  - {fileID: 105507211}

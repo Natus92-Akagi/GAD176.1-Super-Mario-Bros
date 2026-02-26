@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 1806220407224615345}
   - component: {fileID: -3464086897035529271}
   m_Layer: 0
-  m_Name: Ttampoline
+  m_Name: Tampoline
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
