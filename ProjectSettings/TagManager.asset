@@ -3,16 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Enemy
+  - EntryPipe
+  - ExitPipe
+  - Projectile
+  - Object
+  - Item
+  - Start point
+  - Check point
+  - Correct Path
+  - Wrong path
+  - Bowser Trigger
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
+  - 'Interactive '
+  - 'Projectile '
   - 
   - 
   - 
@@ -44,11 +55,11 @@ TagManager:
   - name: Backgroud
     uniqueID: 2668387647
     locked: 0
-  - name: Ground
-    uniqueID: 4220369097
-    locked: 0
   - name: Buildings
     uniqueID: 911103345
+    locked: 0
+  - name: Ground
+    uniqueID: 4220369097
     locked: 0
   - name: Interactive
     uniqueID: 664465991

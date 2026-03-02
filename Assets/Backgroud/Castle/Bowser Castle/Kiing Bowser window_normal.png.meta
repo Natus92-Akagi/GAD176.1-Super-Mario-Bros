@@ -30,8 +30,8 @@ TextureImporter:
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
-    sRGBTexture: 1
+    enableMipMap: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,13 +72,13 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 1
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -169,6 +169,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -176,12 +202,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -198,12 +224,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_1
       rect:
         serializedVersion: 2
-        x: 267
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 268
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,12 +246,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_2
       rect:
         serializedVersion: 2
-        x: 523
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 524
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,12 +268,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_3
       rect:
         serializedVersion: 2
-        x: 779
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 780
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,12 +290,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_4
       rect:
         serializedVersion: 2
-        x: 1035
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1036
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -286,12 +312,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_5
       rect:
         serializedVersion: 2
-        x: 1291
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1292
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,12 +334,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_6
       rect:
         serializedVersion: 2
-        x: 1547
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1548
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,12 +356,12 @@ TextureImporter:
       name: Kiing Bowser window_normal_7
       rect:
         serializedVersion: 2
-        x: 1803
-        y: 3
-        width: 234
-        height: 374
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1804
+        y: 4
+        width: 232
+        height: 372
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -352,7 +378,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e2a88a9f63b59864eb22acc010cd6d74
     internalID: 0
     vertices: []
     indices: 
