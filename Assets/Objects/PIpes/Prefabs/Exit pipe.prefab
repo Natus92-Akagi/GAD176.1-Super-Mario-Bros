@@ -307,7 +307,7 @@ GameObject:
   - component: {fileID: 1263813695277358149}
   m_Layer: 0
   m_Name: Green Small pipe lenght way
-  m_TagString: Untagged
+  m_TagString: EntryPipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

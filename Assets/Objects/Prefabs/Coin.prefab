@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7761801190040577327}
   - component: {fileID: 7921828453831009021}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Coin Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,9 +95,9 @@ GameObject:
   - component: {fileID: 8312840615667658909}
   - component: {fileID: 5971968536601773251}
   - component: {fileID: 6562288221756237369}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Coin
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

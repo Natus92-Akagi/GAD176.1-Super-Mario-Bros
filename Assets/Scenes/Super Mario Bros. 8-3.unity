@@ -119,6 +119,71 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &97869869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2845555891215523696, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_Size.x
+      value: 242
+      objectReference: {fileID: 0}
+    - target: {fileID: 2845555891215523696, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7929878027383909410, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_Name
+      value: Dead Plane
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9098660137392616795, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 82cd2ea8f0de9b44db6804726fb68e8f, type: 3}
 --- !u!1 &152070686
 GameObject:
   m_ObjectHideFlags: 0
@@ -194,7 +259,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -74598199
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -1696,7 +1761,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8, y: 6.5, z: -10}
+  m_LocalPosition: {x: 223, y: 6.5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2560,7 +2625,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 300319940375411057, guid: 4468bd4853f35de4a8a86d93324ec062, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 223
+      value: 221
       objectReference: {fileID: 0}
     - target: {fileID: 300319940375411057, guid: 4468bd4853f35de4a8a86d93324ec062, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2822,7 +2887,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -74598199
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -8385,3 +8450,4 @@ SceneRoots:
   - {fileID: 1011098064}
   - {fileID: 1251166750}
   - {fileID: 365142231}
+  - {fileID: 97869869}
