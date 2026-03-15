@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7761801190040577327}
   - component: {fileID: 7921828453831009021}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Coin Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,9 +95,11 @@ GameObject:
   - component: {fileID: 8312840615667658909}
   - component: {fileID: 5971968536601773251}
   - component: {fileID: 6562288221756237369}
-  m_Layer: 0
+  - component: {fileID: -5295010163218947489}
+  - component: {fileID: -2261642462063247269}
+  m_Layer: 6
   m_Name: Coin
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -195,3 +197,54 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!70 &-5295010163218947489
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6144197769130686936}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0.4375}
+  m_Size: {x: 0.625, y: 0.875}
+  m_Direction: 0
+--- !u!114 &-2261642462063247269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6144197769130686936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaf81d42e859f143986d30f0114f36f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: 4
+  scoreValue: 0

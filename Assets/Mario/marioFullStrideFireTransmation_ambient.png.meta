@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 2af54f6929d22bb468719360795e47a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1704898881609459625
+    second: marioFullStrideFireTransmation_ambient_0
+  - first:
+      213: -5290737482995545022
+    second: marioFullStrideFireTransmation_ambient_1
+  - first:
+      213: -4751910234886897137
+    second: marioFullStrideFireTransmation_ambient_2
+  - first:
+      213: -933053804617136622
+    second: marioFullStrideFireTransmation_ambient_3
+  - first:
+      213: 5465321456933021093
+    second: marioFullStrideFireTransmation_ambient_4
+  - first:
+      213: 5296844300542282201
+    second: marioFullStrideFireTransmation_ambient_5
+  - first:
+      213: -8045767099996223150
+    second: marioFullStrideFireTransmation_ambient_6
+  - first:
+      213: 8001278436423489354
+    second: marioFullStrideFireTransmation_ambient_7
+  - first:
+      213: -7963546528618672824
+    second: marioFullStrideFireTransmation_ambient_8
+  - first:
+      213: -2014636295804751108
+    second: marioFullStrideFireTransmation_ambient_9
+  - first:
+      213: -5865518022000586252
+    second: marioFullStrideFireTransmation_ambient_10
+  - first:
+      213: 5302057441440193020
+    second: marioFullStrideFireTransmation_ambient_11
+  - first:
+      213: 5677486421802200469
+    second: marioFullStrideFireTransmation_ambient_12
+  - first:
+      213: 997579975554744724
+    second: marioFullStrideFireTransmation_ambient_13
+  - first:
+      213: 6003642500933962017
+    second: marioFullStrideFireTransmation_ambient_14
+  - first:
+      213: -8804860952769046557
+    second: marioFullStrideFireTransmation_ambient_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7ea48ff7409a710800000000000000
+      internalID: 1704898881609459625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cc43e6a468396b0800000000000000
+      internalID: -5290737482995545022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02060d61d2dd0eb0800000000000000
+      internalID: -4751910234886897137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216087b12802d03f0800000000000000
+      internalID: -933053804617136622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a520d798e8b8db40800000000000000
+      internalID: 5465321456933021093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90064d3db228940800000000000000
+      internalID: 5296844300542282201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259433b6371b75090800000000000000
+      internalID: -8045767099996223150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47d30868504a0f60800000000000000
+      internalID: 8001278436423489354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_8
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d8369ff9ccb7190800000000000000
+      internalID: -7963546528618672824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f2f486f29a04e0800000000000000
+      internalID: -2014636295804751108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d0039f6e799ea0800000000000000
+      internalID: -5865518022000586252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf952c7c621b49940800000000000000
+      internalID: 5302057441440193020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59daf9ce1db7ace40800000000000000
+      internalID: 5677486421802200469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491cbfdc3bd18dd00800000000000000
+      internalID: 997579975554744724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1294b92cb09315350800000000000000
+      internalID: 6003642500933962017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioFullStrideFireTransmation_ambient_15
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 3
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e75e751d99dec580800000000000000
+      internalID: -8804860952769046557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marioFullStrideFireTransmation_ambient_0: 1704898881609459625
+      marioFullStrideFireTransmation_ambient_1: -5290737482995545022
+      marioFullStrideFireTransmation_ambient_10: -5865518022000586252
+      marioFullStrideFireTransmation_ambient_11: 5302057441440193020
+      marioFullStrideFireTransmation_ambient_12: 5677486421802200469
+      marioFullStrideFireTransmation_ambient_13: 997579975554744724
+      marioFullStrideFireTransmation_ambient_14: 6003642500933962017
+      marioFullStrideFireTransmation_ambient_15: -8804860952769046557
+      marioFullStrideFireTransmation_ambient_2: -4751910234886897137
+      marioFullStrideFireTransmation_ambient_3: -933053804617136622
+      marioFullStrideFireTransmation_ambient_4: 5465321456933021093
+      marioFullStrideFireTransmation_ambient_5: 5296844300542282201
+      marioFullStrideFireTransmation_ambient_6: -8045767099996223150
+      marioFullStrideFireTransmation_ambient_7: 8001278436423489354
+      marioFullStrideFireTransmation_ambient_8: -7963546528618672824
+      marioFullStrideFireTransmation_ambient_9: -2014636295804751108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

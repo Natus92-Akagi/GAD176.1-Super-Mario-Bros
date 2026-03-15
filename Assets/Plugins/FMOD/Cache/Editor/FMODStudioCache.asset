@@ -1,5 +1,541 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7727942934920115519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/King Bowser
+  m_EditorClassIdentifier: 
+  Path: event:/King Bowser
+  Guid:
+    Data1: 1221026771
+    Data2: 1298659594
+    Data3: -870546793
+    Data4: -42426314
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -659770123820570377}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14034
+--- !u!114 &-7390069570681204550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Bonus Room
+  m_EditorClassIdentifier: 
+  Path: event:/Bonus Room
+  Guid:
+    Data1: 656451392
+    Data2: 1213043963
+    Data3: 767916198
+    Data4: -1167574012
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13737
+--- !u!114 &-7277434227913129139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Overworld/Hurry Up
+  m_EditorClassIdentifier: 
+  Name: Hurry Up
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 983356648
+    data2: 2156036885
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-7203835238509311622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Underground/Hurry Up
+  m_EditorClassIdentifier: 
+  Name: Hurry Up
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 983356648
+    data2: 2156036885
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-6495725959942868350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sorce End
+  m_EditorClassIdentifier: 
+  Path: event:/Sorce End
+  Guid:
+    Data1: 1417195943
+    Data2: 1282502310
+    Data3: 1576529069
+    Data4: 203165729
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-6337147043003727307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Thunder
+  m_EditorClassIdentifier: 
+  Path: event:/Thunder
+  Guid:
+    Data1: 905421024
+    Data2: 1275454284
+    Data3: -1408108111
+    Data4: -804257789
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5432251130040105124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Extra life Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Extra life Mario
+  Guid:
+    Data1: 1657340103
+    Data2: 1324518391
+    Data3: -2145276779
+    Data4: 1593667518
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4643472405164234428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/End of Level
+  m_EditorClassIdentifier: 
+  Path: event:/End of Level
+  Guid:
+    Data1: 1457350798
+    Data2: 1132064227
+    Data3: -1164196434
+    Data4: 191608243
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4577665581240272289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Skiding
+  m_EditorClassIdentifier: 
+  Path: event:/Skiding
+  Guid:
+    Data1: 1824771298
+    Data2: 1160131718
+    Data3: 1147115188
+    Data4: -492732429
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4318648150627959260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Power Down Burn Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Power Down Burn Mario
+  Guid:
+    Data1: -759006447
+    Data2: 1086703244
+    Data3: -1399081031
+    Data4: -808043271
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4069004610351416427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Item Appear
+  m_EditorClassIdentifier: 
+  Path: event:/Item Appear
+  Guid:
+    Data1: -95383958
+    Data2: 1132099282
+    Data3: -1530880383
+    Data4: -1195946390
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3733510535754731359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Climb
+  m_EditorClassIdentifier: 
+  Path: event:/Climb
+  Guid:
+    Data1: 419059654
+    Data2: 1192447482
+    Data3: 1391851419
+    Data4: -385791650
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3603485459509023276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pause
+  m_EditorClassIdentifier: 
+  Path: event:/Pause
+  Guid:
+    Data1: -1027602291
+    Data2: 1312898717
+    Data3: 575014843
+    Data4: -2112913627
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3593425611796354283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Starman Pickup Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Starman Pickup Mario
+  Guid:
+    Data1: 1606565043
+    Data2: 1144269239
+    Data3: 1535185854
+    Data4: -1648510558
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2662845137703054548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pipe
+  m_EditorClassIdentifier: 
+  Path: event:/Pipe
+  Guid:
+    Data1: 1973129540
+    Data2: 1181514076
+    Data3: -717238134
+    Data4: 1576919248
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2310105015133698979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Bowers Fight trigger
+  m_EditorClassIdentifier: 
+  Name: Bowers Fight trigger
+  StudioPath: parameter:/Bowers Fight trigger
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 457824806
+    data2: 3048993708
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - Value A
+  - Value B
+  - Value C
+  Exists: 1
+--- !u!114 &-2101996670986742869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Underground
+  m_EditorClassIdentifier: 
+  Path: event:/Underground
+  Guid:
+    Data1: 796884121
+    Data2: 1273235371
+    Data3: -344248650
+    Data4: -365989290
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -7203835238509311622}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19309
+--- !u!114 &-701947785949155409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Head bump
+  m_EditorClassIdentifier: 
+  Path: event:/Head bump
+  Guid:
+    Data1: 288156364
+    Data2: 1133717356
+    Data3: -480194172
+    Data4: 1157426849
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-659770123820570377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/King Bowser/King Bowser Trigger
+  m_EditorClassIdentifier: 
+  Name: King Bowser Trigger
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3920303380
+    data2: 971978958
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - Value A
+  - Value B
+  - Value C
+  Exists: 1
+--- !u!114 &-193596181417620808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Vine Appear
+  m_EditorClassIdentifier: 
+  Path: event:/Vine Appear
+  Guid:
+    Data1: 1419357494
+    Data2: 1339763837
+    Data3: -1355651146
+    Data4: -1624655891
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12,11 +548,973 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
-  EditorBanks: []
-  EditorEvents: []
-  EditorParameters: []
-  MasterBanks: []
-  StringsBanks: []
+  EditorBanks:
+  - {fileID: 272566258756472886}
+  - {fileID: 1341229502852405031}
+  - {fileID: 1763926142267721143}
+  EditorEvents:
+  - {fileID: -4318648150627959260}
+  - {fileID: -193596181417620808}
+  - {fileID: 130119538392568288}
+  - {fileID: 4897154917491386150}
+  - {fileID: 1642584030594675788}
+  - {fileID: -4069004610351416427}
+  - {fileID: 1747601810112479944}
+  - {fileID: 6639734563277672308}
+  - {fileID: 7580834733293953173}
+  - {fileID: -3603485459509023276}
+  - {fileID: 6531686101068887368}
+  - {fileID: -6495725959942868350}
+  - {fileID: -3593425611796354283}
+  - {fileID: -5432251130040105124}
+  - {fileID: 8291207603576596684}
+  - {fileID: 5600087012947220114}
+  - {fileID: -701947785949155409}
+  - {fileID: 4091414023906095429}
+  - {fileID: 381489928227173983}
+  - {fileID: -6337147043003727307}
+  - {fileID: -4577665581240272289}
+  - {fileID: 1510607614795743689}
+  - {fileID: 511435653582725010}
+  - {fileID: 5654926541505155690}
+  - {fileID: -2662845137703054548}
+  - {fileID: 7399894862373523762}
+  - {fileID: -4643472405164234428}
+  - {fileID: -3733510535754731359}
+  - {fileID: 6808705223881297899}
+  - {fileID: 5119761472306039384}
+  - {fileID: -7390069570681204550}
+  - {fileID: 4752682930210211145}
+  - {fileID: 9056052191957940290}
+  - {fileID: -2101996670986742869}
+  - {fileID: 6296057500163691619}
+  - {fileID: 8513446786377386369}
+  - {fileID: -7727942934920115519}
+  - {fileID: 2159017443250694260}
+  EditorParameters:
+  - {fileID: 4063868768329586687}
+  - {fileID: -2310105015133698979}
+  - {fileID: 8537479963601684941}
+  - {fileID: 7665695320309229397}
+  MasterBanks:
+  - {fileID: 1341229502852405031}
+  StringsBanks:
+  - {fileID: 272566258756472886}
   cacheVersion: 131858
-  cacheTime: 0
-  SerializableEventsDict: []
+  cacheTime: 639090301731130182
+  SerializableEventsDict:
+  - key: event:/Power Down Burn Mario
+    index: 0
+  - key: event:/Vine Appear
+    index: 1
+  - key: event:/Power Down By Spiny Mario
+    index: 2
+  - key: event:/Swim
+    index: 3
+  - key: event:/Fireball
+    index: 4
+  - key: event:/Item Appear
+    index: 5
+  - key: event:/Pickup power up Mario
+    index: 6
+  - key: event:/Score
+    index: 7
+  - key: event:/Starnan
+    index: 8
+  - key: event:/Pause
+    index: 9
+  - key: event:/Firework
+    index: 10
+  - key: event:/Sorce End
+    index: 11
+  - key: event:/Starman Pickup Mario
+    index: 12
+  - key: event:/Extra life Mario
+    index: 13
+  - key: event:/Power Up Mario
+    index: 14
+  - key: event:/Coin
+    index: 15
+  - key: event:/Head bump
+    index: 16
+  - key: event:/Brick Break
+    index: 17
+  - key: event:/Jump
+    index: 18
+  - key: event:/Thunder
+    index: 19
+  - key: event:/Skiding
+    index: 20
+  - key: event:/Player Down Mario
+    index: 21
+  - key: event:/Bullet Bill Blaster
+    index: 22
+  - key: event:/Power Down Normal Mario
+    index: 23
+  - key: event:/Pipe
+    index: 24
+  - key: event:/Transition area
+    index: 25
+  - key: event:/End of Level
+    index: 26
+  - key: event:/Climb
+    index: 27
+  - key: event:/Standrad Bowser
+    index: 28
+  - key: event:/Overworld
+    index: 29
+  - key: event:/Bonus Room
+    index: 30
+  - key: event:/Castle
+    index: 31
+  - key: event:/Tilte
+    index: 32
+  - key: event:/Underground
+    index: 33
+  - key: event:/Endding
+    index: 34
+  - key: event:/Hurry-up
+    index: 35
+  - key: event:/King Bowser
+    index: 36
+  - key: event:/Underwater
+    index: 37
+--- !u!114 &130119538392568288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Power Down By Spiny Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Power Down By Spiny Mario
+  Guid:
+    Data1: -795787440
+    Data2: 1178632716
+    Data3: 1308815497
+    Data4: 525571022
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &272566258756472886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../GAD176.1-Super-Mario-Bros/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639090301725630049
+  FileSizes:
+  - Name: Desktop
+    Value: 2722
+  Exists: 1
+--- !u!114 &381489928227173983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Jump
+  m_EditorClassIdentifier: 
+  Path: event:/Jump
+  Guid:
+    Data1: -568634147
+    Data2: 1158144284
+    Data3: 343445671
+    Data4: -1065977279
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &511435653582725010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Bullet Bill Blaster
+  m_EditorClassIdentifier: 
+  Path: event:/Bullet Bill Blaster
+  Guid:
+    Data1: 791697142
+    Data2: 1074263191
+    Data3: 1603577998
+    Data4: -694335775
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1341229502852405031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../GAD176.1-Super-Mario-Bros/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639090301725611987
+  FileSizes:
+  - Name: Desktop
+    Value: 1828
+  Exists: 1
+--- !u!114 &1510607614795743689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Player Down Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Player Down Mario
+  Guid:
+    Data1: 2114619365
+    Data2: 1086944225
+    Data3: 1859800485
+    Data4: 1175075018
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1642584030594675788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fireball
+  m_EditorClassIdentifier: 
+  Path: event:/Fireball
+  Guid:
+    Data1: -570832792
+    Data2: 1332111811
+    Data3: -1089511003
+    Data4: 299254281
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1747601810112479944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pickup power up Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Pickup power up Mario
+  Guid:
+    Data1: -1007606921
+    Data2: 1106947906
+    Data3: -1117624410
+    Data4: -267294843
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1763926142267721143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Super Mario Bros.bank
+  m_EditorClassIdentifier: 
+  Path: ../../GAD176.1-Super-Mario-Bros/Build/Desktop/Super Mario Bros.bank
+  Name: Super Mario Bros
+  StudioPath: bank:/Super Mario Bros
+  lastModified: 639090301731130182
+  FileSizes:
+  - Name: Desktop
+    Value: 3552928
+  Exists: 1
+--- !u!114 &2159017443250694260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Underwater
+  m_EditorClassIdentifier: 
+  Path: event:/Underwater
+  Guid:
+    Data1: -1711062060
+    Data2: 1280800455
+    Data3: -177034858
+    Data4: 238340148
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4662544757029779771}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 31073
+--- !u!114 &4063868768329586687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Starman
+  m_EditorClassIdentifier: 
+  Name: Starman
+  StudioPath: parameter:/Starman
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3423841138
+    data2: 4267190272
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - Value A
+  - Value B
+  - Value C
+  Exists: 1
+--- !u!114 &4091414023906095429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Brick Break
+  m_EditorClassIdentifier: 
+  Path: event:/Brick Break
+  Guid:
+    Data1: 647432916
+    Data2: 1280740310
+    Data3: -1226178883
+    Data4: 2114437201
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &4265634875041245723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Standrad Bowser/Bowers Fight trigger
+  m_EditorClassIdentifier: 
+  Name: Bowers Fight trigger
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 457824806
+    data2: 3048993708
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - Value A
+  - Value B
+  - Value C
+  Exists: 1
+--- !u!114 &4662544757029779771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Underwater/Hurry Up
+  m_EditorClassIdentifier: 
+  Name: Hurry Up
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 983356648
+    data2: 2156036885
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &4752682930210211145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Castle
+  m_EditorClassIdentifier: 
+  Path: event:/Castle
+  Guid:
+    Data1: 1342685288
+    Data2: 1246042949
+    Data3: -1768681550
+    Data4: 713686740
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 6762639003894369712}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9521
+--- !u!114 &4897154917491386150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Swim
+  m_EditorClassIdentifier: 
+  Path: event:/Swim
+  Guid:
+    Data1: 1857620839
+    Data2: 1333821207
+    Data3: -225111897
+    Data4: -1941542408
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5119761472306039384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Overworld
+  m_EditorClassIdentifier: 
+  Path: event:/Overworld
+  Guid:
+    Data1: -723665898
+    Data2: 1221844918
+    Data3: -573286753
+    Data4: -1911812405
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -7277434227913129139}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 38984
+--- !u!114 &5600087012947220114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Coin
+  m_EditorClassIdentifier: 
+  Path: event:/Coin
+  Guid:
+    Data1: 758607049
+    Data2: 1197154324
+    Data3: 1633698224
+    Data4: -2025534222
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5654926541505155690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Power Down Normal Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Power Down Normal Mario
+  Guid:
+    Data1: 121651187
+    Data2: 1303273490
+    Data3: -515229033
+    Data4: 997373477
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6296057500163691619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Endding
+  m_EditorClassIdentifier: 
+  Path: event:/Endding
+  Guid:
+    Data1: 844107423
+    Data2: 1209089146
+    Data3: 1132903586
+    Data4: -1710761744
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 29767
+--- !u!114 &6531686101068887368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Firework
+  m_EditorClassIdentifier: 
+  Path: event:/Firework
+  Guid:
+    Data1: -2075005547
+    Data2: 1197590831
+    Data3: -1840797816
+    Data4: -593009152
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6639734563277672308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Score
+  m_EditorClassIdentifier: 
+  Path: event:/Score
+  Guid:
+    Data1: 385112958
+    Data2: 1213059076
+    Data3: 781436316
+    Data4: 243908947
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6762639003894369712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Castle/Hurry Up
+  m_EditorClassIdentifier: 
+  Name: Hurry Up
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 983356648
+    data2: 2156036885
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &6808705223881297899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Standrad Bowser
+  m_EditorClassIdentifier: 
+  Path: event:/Standrad Bowser
+  Guid:
+    Data1: -810930676
+    Data2: 1091499150
+    Data3: -645145197
+    Data4: 849392191
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 4265634875041245723}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10532
+--- !u!114 &7384358615609777763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Starnan/Starman
+  m_EditorClassIdentifier: 
+  Name: Starman
+  StudioPath: 
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3423841138
+    data2: 4267190272
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - Value A
+  - Value B
+  - Value C
+  Exists: 1
+--- !u!114 &7399894862373523762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Transition area
+  m_EditorClassIdentifier: 
+  Path: event:/Transition area
+  Guid:
+    Data1: 2082696441
+    Data2: 1239020455
+    Data3: 1618588569
+    Data4: 1833196737
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7580834733293953173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Starnan
+  m_EditorClassIdentifier: 
+  Path: event:/Starnan
+  Guid:
+    Data1: 2097003649
+    Data2: 1317340492
+    Data3: 4102835
+    Data4: 1026868770
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 7384358615609777763}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3002
+--- !u!114 &7665695320309229397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Hurry Up
+  m_EditorClassIdentifier: 
+  Name: Hurry Up
+  StudioPath: parameter:/Hurry Up
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 983356648
+    data2: 2156036885
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &8291207603576596684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Power Up Mario
+  m_EditorClassIdentifier: 
+  Path: event:/Power Up Mario
+  Guid:
+    Data1: 1707872969
+    Data2: 1330991981
+    Data3: 1123376314
+    Data4: 782797156
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8513446786377386369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Hurry-up
+  m_EditorClassIdentifier: 
+  Path: event:/Hurry-up
+  Guid:
+    Data1: 309120445
+    Data2: 1126955368
+    Data3: 1670258339
+    Data4: -265712353
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &8537479963601684941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/King Bowser Trigger
+  m_EditorClassIdentifier: 
+  Name: King Bowser Trigger
+  StudioPath: parameter:/King Bowser Trigger
+  Min: 0
+  Max: 2
+  Default: 0
+  ID:
+    data1: 3920303380
+    data2: 971978958
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - Value A
+  - Value B
+  - Value C
+  Exists: 1
+--- !u!114 &9056052191957940290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Tilte
+  m_EditorClassIdentifier: 
+  Path: event:/Tilte
+  Guid:
+    Data1: -1115711127
+    Data2: 1241554039
+    Data3: 1514931345
+    Data4: 470908231
+  Banks:
+  - {fileID: 1763926142267721143}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 36463

@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 61f6756678c500b49b79578c5ea8a740
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5018690277614396151
+    second: marioSkidFireTransmation_normal_0
+  - first:
+      213: -8376411473606127320
+    second: marioSkidFireTransmation_normal_1
+  - first:
+      213: 1663778766272800374
+    second: marioSkidFireTransmation_normal_2
+  - first:
+      213: 3834623491909357203
+    second: marioSkidFireTransmation_normal_3
+  - first:
+      213: 7354291905107688204
+    second: marioSkidFireTransmation_normal_4
+  - first:
+      213: -4128815831884237139
+    second: marioSkidFireTransmation_normal_5
+  - first:
+      213: 4572267305798623689
+    second: marioSkidFireTransmation_normal_6
+  - first:
+      213: 1814390331147884943
+    second: marioSkidFireTransmation_normal_7
+  - first:
+      213: -8635903221973207836
+    second: marioSkidFireTransmation_normal_8
+  - first:
+      213: -5512995243447976934
+    second: marioSkidFireTransmation_normal_9
+  - first:
+      213: -6674742738011612348
+    second: marioSkidFireTransmation_normal_10
+  - first:
+      213: -200411650695354212
+    second: marioSkidFireTransmation_normal_11
+  - first:
+      213: -4450723309541196283
+    second: marioSkidFireTransmation_normal_12
+  - first:
+      213: 5421109521207600717
+    second: marioSkidFireTransmation_normal_13
+  - first:
+      213: 99089348016795288
+    second: marioSkidFireTransmation_normal_14
+  - first:
+      213: 6934938146575816859
+    second: marioSkidFireTransmation_normal_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a9e2a738f5a540800000000000000
+      internalID: 5018690277614396151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8215337152201cb80800000000000000
+      internalID: -8376411473606127320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676278c09fde61710800000000000000
+      internalID: 1663778766272800374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e00aacfb1573530800000000000000
+      internalID: 3834623491909357203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b7972e581bf0660800000000000000
+      internalID: 7354291905107688204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f78550ef73b6c0800000000000000
+      internalID: -4128815831884237139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16244c3e4f37f30800000000000000
+      internalID: 4572267305798623689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8919f3a4620e2910800000000000000
+      internalID: 1814390331147884943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_8
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4b2ab46cb172880800000000000000
+      internalID: -8635903221973207836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7dd10908ed73b0800000000000000
+      internalID: -5512995243447976934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b13b518dc8e53a0800000000000000
+      internalID: -6674742738011612348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98247f5aaef73df0800000000000000
+      internalID: -200411650695354212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50efe3d1bbadb32c0800000000000000
+      internalID: -4450723309541196283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4621142366ab3b40800000000000000
+      internalID: 5421109521207600717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee09dac39006100800000000000000
+      internalID: 99089348016795288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioSkidFireTransmation_normal_15
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 0
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9815fd5089dd3060800000000000000
+      internalID: 6934938146575816859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      marioSkidFireTransmation_normal_0: 5018690277614396151
+      marioSkidFireTransmation_normal_1: -8376411473606127320
+      marioSkidFireTransmation_normal_10: -6674742738011612348
+      marioSkidFireTransmation_normal_11: -200411650695354212
+      marioSkidFireTransmation_normal_12: -4450723309541196283
+      marioSkidFireTransmation_normal_13: 5421109521207600717
+      marioSkidFireTransmation_normal_14: 99089348016795288
+      marioSkidFireTransmation_normal_15: 6934938146575816859
+      marioSkidFireTransmation_normal_2: 1663778766272800374
+      marioSkidFireTransmation_normal_3: 3834623491909357203
+      marioSkidFireTransmation_normal_4: 7354291905107688204
+      marioSkidFireTransmation_normal_5: -4128815831884237139
+      marioSkidFireTransmation_normal_6: 4572267305798623689
+      marioSkidFireTransmation_normal_7: 1814390331147884943
+      marioSkidFireTransmation_normal_8: -8635903221973207836
+      marioSkidFireTransmation_normal_9: -5512995243447976934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

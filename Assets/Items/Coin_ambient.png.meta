@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 5a0c9affca59b204f8d7196426eff2f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6241609354305487682
+    second: Coin_ambient_0
+  - first:
+      213: -8864590608459444178
+    second: Coin_ambient_1
+  - first:
+      213: 6196754659778573125
+    second: Coin_ambient_2
+  - first:
+      213: -7768454439530896061
+    second: Coin_ambient_3
+  - first:
+      213: 8738361010636796377
+    second: Coin_ambient_4
+  - first:
+      213: 4232441730526965512
+    second: Coin_ambient_5
+  - first:
+      213: -5656463740275662174
+    second: Coin_ambient_6
+  - first:
+      213: -923484597028915093
+    second: Coin_ambient_7
+  - first:
+      213: -3617377435939745656
+    second: Coin_ambient_8
+  - first:
+      213: 2069029319170458312
+    second: Coin_ambient_9
+  - first:
+      213: -7677076463680803189
+    second: Coin_ambient_10
+  - first:
+      213: 4216967194911320738
+    second: Coin_ambient_11
+  - first:
+      213: 9049275662717442388
+    second: Coin_ambient_12
+  - first:
+      213: -8710483674298681279
+    second: Coin_ambient_13
+  - first:
+      213: 1178789472648734278
+    second: Coin_ambient_14
+  - first:
+      213: 4195307672940240095
+    second: Coin_ambient_15
+  - first:
+      213: 2826899251580660478
+    second: Coin_ambient_16
+  - first:
+      213: -5886573048187775690
+    second: Coin_ambient_17
+  - first:
+      213: 73659774910840907
+    second: Coin_ambient_18
+  - first:
+      213: 1219069383612761443
+    second: Coin_ambient_19
+  - first:
+      213: -2985401306216309519
+    second: Coin_ambient_20
+  - first:
+      213: 297972248835999978
+    second: Coin_ambient_21
+  - first:
+      213: -800505401934844824
+    second: Coin_ambient_22
+  - first:
+      213: -320423422493527374
+    second: Coin_ambient_23
+  - first:
+      213: 2324737439581386784
+    second: Coin_ambient_24
+  - first:
+      213: 4406344227710774125
+    second: Coin_ambient_25
+  - first:
+      213: -5255812844833688522
+    second: Coin_ambient_26
+  - first:
+      213: 1089313857517700497
+    second: Coin_ambient_27
+  - first:
+      213: 9152477906773814549
+    second: Coin_ambient_28
+  - first:
+      213: 315037628816351283
+    second: Coin_ambient_29
+  - first:
+      213: 4982616284392784813
+    second: Coin_ambient_30
+  - first:
+      213: -9084577446479663754
+    second: Coin_ambient_31
+  - first:
+      213: 7222456485655181971
+    second: Coin_ambient_32
+  - first:
+      213: 3121865280590755189
+    second: Coin_ambient_33
+  - first:
+      213: -1132979991557652954
+    second: Coin_ambient_34
+  - first:
+      213: 4303318838706983089
+    second: Coin_ambient_35
+  - first:
+      213: 1991370031944764160
+    second: Coin_ambient_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin_ambient_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243422663a6ae9650800000000000000
+      internalID: 6241609354305487682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20d287eec5aaf480800000000000000
+      internalID: -8864590608459444178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433950088b4ff550800000000000000
+      internalID: 6196754659778573125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34564f5a8d7e03490800000000000000
+      internalID: -7768454439530896061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 35
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d131269a05e44970800000000000000
+      internalID: 8738361010636796377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f69985457acba30800000000000000
+      internalID: 4232441730526965512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 35
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2edfb82343081b0800000000000000
+      internalID: -5656463740275662174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68fb8ed6af1f23f0800000000000000
+      internalID: -923484597028915093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 43
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8805c40436e7ccdc0800000000000000
+      internalID: -3617377435939745656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 43
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2060f143ba6bc10800000000000000
+      internalID: 2069029319170458312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e2bc491ab857590800000000000000
+      internalID: -7677076463680803189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa2a22425da58a30800000000000000
+      internalID: 4216967194911320738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 43
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595cd6254c759d70800000000000000
+      internalID: 9049275662717442388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 43
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14876939f352e1780800000000000000
+      internalID: -8710483674298681279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646a236a7c6eb5010800000000000000
+      internalID: 1178789472648734278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd211d91ab83a30800000000000000
+      internalID: 4195307672940240095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa684a44e92b3720800000000000000
+      internalID: 2826899251580660478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 19
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63511664001be4ea0800000000000000
+      internalID: -5886573048187775690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 23
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40cbcdcc21b50100800000000000000
+      internalID: 73659774910840907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3650bce35210be010800000000000000
+      internalID: 1219069383612761443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc5dfe4459b196d0800000000000000
+      internalID: -2985401306216309519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_21
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 23
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84bcc7e2c922400800000000000000
+      internalID: 297972248835999978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_22
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 23
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c64e4049804e4f0800000000000000
+      internalID: -800505401934844824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2fe8c4890ad8bf0800000000000000
+      internalID: -320423422493527374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_24
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028bc426260234020800000000000000
+      internalID: 2324737439581386784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 23
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2bc2baba762d30800000000000000
+      internalID: 4406344227710774125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_26
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634b0c9601a9f07b0800000000000000
+      internalID: -5255812844833688522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_27
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195c0469e250e1f00800000000000000
+      internalID: 1089313857517700497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_28
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 7
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d2ddf0a22240f70800000000000000
+      internalID: 9152477906773814549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ea74ed0d3f5400800000000000000
+      internalID: 315037628816351283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da30f439c1fc52540800000000000000
+      internalID: 4982616284392784813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_31
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ded00d1f81de180800000000000000
+      internalID: -9084577446479663754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_32
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a713158e15b3460800000000000000
+      internalID: 7222456485655181971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_33
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575bc3eaee7135b20800000000000000
+      internalID: 3121865280590755189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb49153b8d640f0800000000000000
+      internalID: -1132979991557652954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_35
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b050601fa578bb30800000000000000
+      internalID: 4303318838706983089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin_ambient_36
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0d6a4e74c2ab10800000000000000
+      internalID: 1991370031944764160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Coin_ambient_0: 6241609354305487682
+      Coin_ambient_1: -8864590608459444178
+      Coin_ambient_10: -7677076463680803189
+      Coin_ambient_11: 4216967194911320738
+      Coin_ambient_12: 9049275662717442388
+      Coin_ambient_13: -8710483674298681279
+      Coin_ambient_14: 1178789472648734278
+      Coin_ambient_15: 4195307672940240095
+      Coin_ambient_16: 2826899251580660478
+      Coin_ambient_17: -5886573048187775690
+      Coin_ambient_18: 73659774910840907
+      Coin_ambient_19: 1219069383612761443
+      Coin_ambient_2: 6196754659778573125
+      Coin_ambient_20: -2985401306216309519
+      Coin_ambient_21: 297972248835999978
+      Coin_ambient_22: -800505401934844824
+      Coin_ambient_23: -320423422493527374
+      Coin_ambient_24: 2324737439581386784
+      Coin_ambient_25: 4406344227710774125
+      Coin_ambient_26: -5255812844833688522
+      Coin_ambient_27: 1089313857517700497
+      Coin_ambient_28: 9152477906773814549
+      Coin_ambient_29: 315037628816351283
+      Coin_ambient_3: -7768454439530896061
+      Coin_ambient_30: 4982616284392784813
+      Coin_ambient_31: -9084577446479663754
+      Coin_ambient_32: 7222456485655181971
+      Coin_ambient_33: 3121865280590755189
+      Coin_ambient_34: -1132979991557652954
+      Coin_ambient_35: 4303318838706983089
+      Coin_ambient_36: 1991370031944764160
+      Coin_ambient_4: 8738361010636796377
+      Coin_ambient_5: 4232441730526965512
+      Coin_ambient_6: -5656463740275662174
+      Coin_ambient_7: -923484597028915093
+      Coin_ambient_8: -3617377435939745656
+      Coin_ambient_9: 2069029319170458312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

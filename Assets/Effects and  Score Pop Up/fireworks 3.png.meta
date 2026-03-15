@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 6c410953718f2d449a9d3978bfa2c37f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5876754969817408648
+    second: fireworks 3_0
+  - first:
+      213: 5588042400551384533
+    second: fireworks 3_1
+  - first:
+      213: -5185440941348847304
+    second: fireworks 3_2
+  - first:
+      213: -3604396867070105129
+    second: fireworks 3_3
+  - first:
+      213: 7593423538779549997
+    second: fireworks 3_4
+  - first:
+      213: 8282848528379975951
+    second: fireworks 3_5
+  - first:
+      213: -8018273347686532540
+    second: fireworks 3_6
+  - first:
+      213: 767818089680693087
+    second: fireworks 3_7
+  - first:
+      213: 5110453469510145771
+    second: fireworks 3_8
+  - first:
+      213: 851518990437418943
+    second: fireworks 3_9
+  - first:
+      213: -7464306422374900879
+    second: fireworks 3_10
+  - first:
+      213: 6113308074928135268
+    second: fireworks 3_11
+  - first:
+      213: -3997473202380334460
+    second: fireworks 3_12
+  - first:
+      213: 6579890545406029051
+    second: fireworks 3_13
+  - first:
+      213: -3647773939678305962
+    second: fireworks 3_14
+  - first:
+      213: -4348598360268219440
+    second: fireworks 3_15
+  - first:
+      213: 6927738438442833072
+    second: fireworks 3_16
+  - first:
+      213: 4579791554770733571
+    second: fireworks 3_17
+  - first:
+      213: -2152466858366655456
+    second: fireworks 3_18
+  - first:
+      213: -1624622221089632024
+    second: fireworks 3_19
+  - first:
+      213: -8016513109437111334
+    second: fireworks 3_20
+  - first:
+      213: -2499228094572044516
+    second: fireworks 3_21
+  - first:
+      213: -8202480197624816708
+    second: fireworks 3_22
+  - first:
+      213: -5524672449179873894
+    second: fireworks 3_23
+  - first:
+      213: 3495281874343849578
+    second: fireworks 3_24
+  - first:
+      213: -5895763678404183526
+    second: fireworks 3_25
+  - first:
+      213: -566310258880428614
+    second: fireworks 3_26
+  - first:
+      213: 7057458830786283887
+    second: fireworks 3_27
+  - first:
+      213: -7174287704749076767
+    second: fireworks 3_28
+  - first:
+      213: 3683060063206996761
+    second: fireworks 3_29
+  - first:
+      213: 391596973281305310
+    second: fireworks 3_30
+  - first:
+      213: 4005453758400606575
+    second: fireworks 3_31
+  - first:
+      213: 9188295695408926735
+    second: fireworks 3_32
+  - first:
+      213: -5484010782509062655
+    second: fireworks 3_33
+  - first:
+      213: 5557540870794680359
+    second: fireworks 3_34
+  - first:
+      213: 4130845285365092194
+    second: fireworks 3_35
+  - first:
+      213: -5871498153626613064
+    second: fireworks 3_36
+  - first:
+      213: -1649142636965909257
+    second: fireworks 3_37
+  - first:
+      213: -1249529833171232409
+    second: fireworks 3_38
+  - first:
+      213: -3000454209782924018
+    second: fireworks 3_39
+  - first:
+      213: -3221131803965950529
+    second: fireworks 3_40
+  - first:
+      213: 748353822730650188
+    second: fireworks 3_41
+  - first:
+      213: 8475030349308954871
+    second: fireworks 3_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireworks 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8846af7328d6e8150800000000000000
+      internalID: 5876754969817408648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireworks 3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5bfa2e4f6bc8d40800000000000000
+      internalID: 5588042400551384533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireworks 3_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831822fffec9908b0800000000000000
+      internalID: -5185440941348847304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireworks 3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d961c4752c9afdc0800000000000000
+      internalID: -3604396867070105129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7aa1130d7ba475d40b17a302436cf5ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: caa79939d7dc1ca4d871f29277632e82, type: 3}
+      name: _MaskTex
+    - texture: {fileID: 2800000, guid: 45efec3505c91dc47afd065df47ca119, type: 3}
+      name: _NormalMap
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fireworks 3_0: 5876754969817408648
+      fireworks 3_1: 5588042400551384533
+      fireworks 3_2: -5185440941348847304
+      fireworks 3_3: -3604396867070105129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

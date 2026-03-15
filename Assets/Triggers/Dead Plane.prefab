@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9098660137392616795}
   - component: {fileID: 2845555891215523696}
   - component: {fileID: 7894699792311949989}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Dead Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75,7 +75,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 664465991
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 1e89a5015d80d794cbe832d223151547, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}

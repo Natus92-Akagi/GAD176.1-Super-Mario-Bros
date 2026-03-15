@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6930354491077053420}
   - component: {fileID: 8538895793623828403}
   - component: {fileID: 3864695630539088960}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Green Small pipe lenght way
   m_TagString: Untagged
   m_Icon: {fileID: 0}
