@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: b872e0b4cf12a2e42879c1636a86e297
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3856728815135065232
+    second: Lava slashp effect_0
+  - first:
+      213: 162507110132840130
+    second: Lava slashp effect_1
+  - first:
+      213: 3937358127204346615
+    second: Lava slashp effect_2
+  - first:
+      213: -97297191778110750
+    second: Lava slashp effect_3
+  - first:
+      213: -1218998276682792476
+    second: Lava slashp effect_4
+  - first:
+      213: 2906307848141969184
+    second: Lava slashp effect_5
+  - first:
+      213: -4220623721877409287
+    second: Lava slashp effect_6
+  - first:
+      213: -5084190797574578070
+    second: Lava slashp effect_7
+  - first:
+      213: -7574661940835247678
+    second: Lava slashp effect_8
+  - first:
+      213: -4072123932412357314
+    second: Lava slashp effect_9
+  - first:
+      213: 6119011723439438027
+    second: Lava slashp effect_10
+  - first:
+      213: -1961779417162734956
+    second: Lava slashp effect_11
+  - first:
+      213: 4337458258582362291
+    second: Lava slashp effect_12
+  - first:
+      213: 4767503514650963348
+    second: Lava slashp effect_13
+  - first:
+      213: 8181543627273203421
+    second: Lava slashp effect_14
+  - first:
+      213: 1195534171656955360
+    second: Lava slashp effect_15
+  - first:
+      213: -642762317851124055
+    second: Lava slashp effect_16
+  - first:
+      213: -4832649083438579474
+    second: Lava slashp effect_17
+  - first:
+      213: -962965678528145506
+    second: Lava slashp effect_18
+  - first:
+      213: -2056654296225041678
+    second: Lava slashp effect_19
+  - first:
+      213: -7408550945172089118
+    second: Lava slashp effect_20
+  - first:
+      213: -892082260037051555
+    second: Lava slashp effect_21
+  - first:
+      213: -9037093500507777065
+    second: Lava slashp effect_22
+  - first:
+      213: -1468457872996843210
+    second: Lava slashp effect_23
+  - first:
+      213: 8944800999616931769
+    second: Lava slashp effect_24
+  - first:
+      213: 2695233085593912571
+    second: Lava slashp effect_25
+  - first:
+      213: 6838925747812889130
+    second: Lava slashp effect_26
+  - first:
+      213: -5191048697133385878
+    second: Lava slashp effect_27
+  - first:
+      213: 3372233599050526538
+    second: Lava slashp effect_28
+  - first:
+      213: -5244615496420279773
+    second: Lava slashp effect_29
+  - first:
+      213: -7556018902003143349
+    second: Lava slashp effect_30
+  - first:
+      213: 5440091142688965772
+    second: Lava slashp effect_31
+  - first:
+      213: -4909766185367030320
+    second: Lava slashp effect_32
+  - first:
+      213: 2474651526389640156
+    second: Lava slashp effect_33
+  - first:
+      213: 5758899501743115928
+    second: Lava slashp effect_34
+  - first:
+      213: -3795206937004954108
+    second: Lava slashp effect_35
+  - first:
+      213: 1147094262147857349
+    second: Lava slashp effect_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lava slashp effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094832d6c6ad58530800000000000000
+      internalID: 3856728815135065232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c671fc0b57514200800000000000000
+      internalID: 162507110132840130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa238d0b5e44a630800000000000000
+      internalID: 3937358127204346615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e23c6638b456aef0800000000000000
+      internalID: -97297191778110750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e14280a68f351fe0800000000000000
+      internalID: -1218998276682792476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 407abe0516c020046b2bdc1d41254879
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: d8cb5a82c44aab54db01d9561acb5def, type: 3}
+      name: _MaskTex
+    - texture: {fileID: 2800000, guid: 5bcfde72fc8a3984192a938aac2b66ef, type: 3}
+      name: _NormalMap
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lava slashp effect_0: 3856728815135065232
+      Lava slashp effect_1: 162507110132840130
+      Lava slashp effect_2: 3937358127204346615
+      Lava slashp effect_3: -97297191778110750
+      Lava slashp effect_4: -1218998276682792476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

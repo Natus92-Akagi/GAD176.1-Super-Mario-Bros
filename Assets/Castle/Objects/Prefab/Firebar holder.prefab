@@ -1009,6 +1009,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3908188391917814393}
+  - component: {fileID: 397038986670198708}
   m_Layer: 0
   m_Name: Firebar
   m_TagString: Untagged
@@ -1037,6 +1038,19 @@ Transform:
   - {fileID: 2982495139595500101}
   m_Father: {fileID: 933905277421849905}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &397038986670198708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7336077460457786392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec108e88fb11014438f928ddd8f4ae65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 90
 --- !u!1 &7439752030880171199
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1441319453533144489}
   - component: {fileID: 4665568780706481635}
   - component: {fileID: 8539849567433366658}
+  - component: {fileID: -1390793961851958079}
   m_Layer: 6
   m_Name: above ground 1-up Mushroom
   m_TagString: Item
@@ -115,7 +116,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!60 &8539849567433366658
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -178,3 +179,17 @@ PolygonCollider2D:
       - {x: 1, y: 0.265625}
       - {x: 1, y: 0.765625}
   m_UseDelaunayMesh: 0
+--- !u!114 &-1390793961851958079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3087631859213161725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaf81d42e859f143986d30f0114f36f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: 3
+  scoreValue: 0

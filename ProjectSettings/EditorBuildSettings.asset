@@ -8,6 +8,159 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Super Mario Bros. Title.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 1-1.unity
+    guid: e3b281d407dbec44e959a8d5fa88a56c
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 1-2.unity
+    guid: 544c6f5eb35e5fb4ba7ce67c2c5756dc
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 1-3.unity
+    guid: ab8f7e94ed9a17f4a9dc41b3559da306
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 1-4.unity
+    guid: 8fa1fd46cd320934fbb40eeaf5191870
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 2-1.unity
+    guid: 07d6182170c1fa645b9c1d011f24db87
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 2-2.unity
+    guid: aef61114ee4e89f4489c142fd7e272f1
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 2-3.unity
+    guid: 235bcba9428acf64c8d7c2bcf440d627
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 2-4.unity
+    guid: 4adf8ec92112a6346874b12e71730a3c
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 3-1.unity
+    guid: 6795eeb7fedc9ed4b932ebaa95f99fd5
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 3-2.unity
+    guid: 6ac1322cb7ec35c4789223c84cf436a6
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 3-3.unity
+    guid: cb904f07a4e9fd240b3efddc4b49d836
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 3-4.unity
+    guid: 8ef16010fdb8ac541b82471688b7fe65
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 4-1.unity
+    guid: b77645e72cf36a94099e4c198388765f
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 4-2.unity
+    guid: 96864ed6075e46344894c4df9e0864a9
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 4-3.unity
+    guid: 26f8882e34dd61240bd4ef3e70ab9fab
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 4-4.unity
+    guid: ad0b6f4bf61f79947a7bb38a4f07e356
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 5-1.unity
+    guid: 7ebb70216d564454090dc5d391763a99
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 5-2.unity
+    guid: c571df5510680de47b0a4d1870b16a0e
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 5-3.unity
+    guid: c377a2fa5d2bf5d47a682b55c2160dc2
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 5-4.unity
+    guid: 11b33040d79eebd4893ea5ec5d8707ef
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 6-1.unity
+    guid: 3c1741e83c3d3ec4abc6a74adb8daad3
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 6-2.unity
+    guid: 08203ea85cda64d4eb2df71d954d41b1
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 6-3.unity
+    guid: 20672e552dcc14b4197db6725bc19615
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 6-4.unity
+    guid: 664abe8ec69196f498042dbfb52400fc
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 7-1.unity
+    guid: 80bfdc7ad103b2d4188b02ac585bc2cc
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 7-2.unity
+    guid: 40203d8c02b6f8242bac6d3fcaac12b5
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 7-3.unity
+    guid: 58f45373f5d1de641a3b47ab470c9fd0
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 7-4.unity
+    guid: 915ccdadfec6af14588364cad496350c
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-1.unity
+    guid: 861fbad26856cbb4685a36ce05d88004
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-2.unity
+    guid: 190746f04dde76c4a89f6f61d1e9bd87
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-3.unity
+    guid: 886e020403df463499287ccac567a457
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-4.unity
+    guid: 000df7a7976d7fd47b4d93401653992d
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 4-2 (Warp Zone).unity
+    guid: 657c4387c52ae6d4ea39ec1138d3a228
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-4 Section A.unity
+    guid: c29830a6aa3422244a4b64c7fc7042b4
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-4 Section B.unity
+    guid: a7d5ffad6faa6ad42b560f4b42bf9a9b
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-4 Section C.unity
+    guid: 25e12d95d2d9e964fb2db4cda47d8c57
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-4 Section D.unity
+    guid: adb8ec33586a13f4881928acd389890c
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. 8-4 Section E.unity
+    guid: 2af61bb3254731d41a74cdd9a69b7426
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Bonus 1.unity
+    guid: 97bbc65b6ea3eda4bbcee9609578c6ef
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Bonus 2.unity
+    guid: 17b29cc1505d22b468c72bcbadf75aa2
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Bonus 3.unity
+    guid: 04afe13566314a74080f169d34c27455
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Bonus 4.unity
+    guid: 817d13296f19db0439e83006c85551c3
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Bonus 5.unity
+    guid: 6b49fe687e33a124c96543b6ac6a8ad3
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Coin Heaven.unity
+    guid: 96259b992b9f93a4787241b908d80b47
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Coin Heaven (Night).unity
+    guid: 71b44f6696b0dbd4080c23f4692cacdb
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros. Underwater.unity
+    guid: ee7501d01c33ba34685fe11b12c77332
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros end of level transition area.unity
+    guid: 7183f62b25f917c49a2e3b89a6787388
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros end of level transition area (Snow).unity
+    guid: 75ee292343fb8bb40b5a6cb59c2a43ee
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros Level Preview.unity
+    guid: 5990ac54fc1b4b04aadea7922ef78449
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros transition area.unity
+    guid: 09cfb44944c1df04b8f5a921b4a7edbe
+  - enabled: 1
+    path: Assets/Scenes/Super Mario Bros transition area (Snow).unity
+    guid: 6282767a1add8c14c8fc81a7b57eb8af
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 8379dcecd06afc3479cdfb829b68d9c5, type: 3}
   m_UseUCBPForAssetBundles: 0

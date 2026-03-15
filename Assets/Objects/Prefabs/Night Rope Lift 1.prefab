@@ -183,6 +183,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5816509110611026542}
+  - component: {fileID: 5452697827815996525}
   m_Layer: 0
   m_Name: Night Rope Lift 1
   m_TagString: Untagged
@@ -212,6 +213,21 @@ Transform:
   - {fileID: 3649528207488061841}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5452697827815996525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3905862709180692110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087e3d490f4fbd243ace10dc8ec1973f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects: 1
+  directHitValue: 0
+  delayHitValue: 0
 --- !u!1 &4695133543609475939
 GameObject:
   m_ObjectHideFlags: 0

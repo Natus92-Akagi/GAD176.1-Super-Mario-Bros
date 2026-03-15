@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 5463057229041933975}
   - component: {fileID: 4914046454798582571}
   - component: {fileID: 5366956280943682995}
-  - component: {fileID: 1102553260383126592}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (2)
   m_TagString: Untagged
@@ -201,33 +200,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &1102553260383126592
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 137673262178744174}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &1117533951596069306
 GameObject:
   m_ObjectHideFlags: 0
@@ -241,7 +213,6 @@ GameObject:
   - component: {fileID: 6828290410331230839}
   - component: {fileID: 8162664613145489335}
   - component: {fileID: 474064126458212352}
-  - component: {fileID: 9162472674187047326}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (7)
   m_TagString: Untagged
@@ -429,33 +400,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &9162472674187047326
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1117533951596069306}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &1630614481471993311
 GameObject:
   m_ObjectHideFlags: 0
@@ -469,7 +413,6 @@ GameObject:
   - component: {fileID: 8239107416758801907}
   - component: {fileID: 6471713274929101333}
   - component: {fileID: 1426659172478767922}
-  - component: {fileID: 4542430414990800131}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (8)
   m_TagString: Untagged
@@ -657,33 +600,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &4542430414990800131
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1630614481471993311}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &2217811679241109598
 GameObject:
   m_ObjectHideFlags: 0
@@ -697,7 +613,6 @@ GameObject:
   - component: {fileID: 2719943554807945331}
   - component: {fileID: 8965187165598409465}
   - component: {fileID: 7094161567563344166}
-  - component: {fileID: 6693900218569414151}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (6)
   m_TagString: Untagged
@@ -885,33 +800,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &6693900218569414151
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2217811679241109598}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &2312391113799296961
 GameObject:
   m_ObjectHideFlags: 0
@@ -925,7 +813,6 @@ GameObject:
   - component: {fileID: 4435992701967893796}
   - component: {fileID: 1168522299463266715}
   - component: {fileID: 6346605538286513823}
-  - component: {fileID: 6080603313418480321}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (1)
   m_TagString: Untagged
@@ -1113,33 +1000,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &6080603313418480321
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2312391113799296961}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &3540740296115050306
 GameObject:
   m_ObjectHideFlags: 0
@@ -1153,7 +1013,6 @@ GameObject:
   - component: {fileID: 3820100217872190797}
   - component: {fileID: 6959019747736654852}
   - component: {fileID: 4082981507393984561}
-  - component: {fileID: 2261199466167580339}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (11)
   m_TagString: Untagged
@@ -1341,33 +1200,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &2261199466167580339
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3540740296115050306}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &3591633975957944024
 GameObject:
   m_ObjectHideFlags: 0
@@ -1381,7 +1213,6 @@ GameObject:
   - component: {fileID: 2860932500241326222}
   - component: {fileID: 2239444889643975331}
   - component: {fileID: 1328466728100347616}
-  - component: {fileID: 6857152282517709047}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (9)
   m_TagString: Untagged
@@ -1569,33 +1400,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &6857152282517709047
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3591633975957944024}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &5277805271995269848
 GameObject:
   m_ObjectHideFlags: 0
@@ -1609,7 +1413,6 @@ GameObject:
   - component: {fileID: 420868365026158091}
   - component: {fileID: 6909064847768020425}
   - component: {fileID: 3602517652404317117}
-  - component: {fileID: 1764751775816507656}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (5)
   m_TagString: Untagged
@@ -1797,33 +1600,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &1764751775816507656
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5277805271995269848}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &6063371366028155127
 GameObject:
   m_ObjectHideFlags: 0
@@ -1837,7 +1613,6 @@ GameObject:
   - component: {fileID: 439662599190498322}
   - component: {fileID: 2310799996198403251}
   - component: {fileID: 3586917975474976274}
-  - component: {fileID: 6519408858082618504}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar
   m_TagString: Untagged
@@ -2025,33 +1800,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &6519408858082618504
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6063371366028155127}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &6299568057542092326
 GameObject:
   m_ObjectHideFlags: 0
@@ -2065,7 +1813,6 @@ GameObject:
   - component: {fileID: 663778447522301467}
   - component: {fileID: 4006132446074540845}
   - component: {fileID: 4884685233291769194}
-  - component: {fileID: 1961437569928293538}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (3)
   m_TagString: Untagged
@@ -2253,33 +2000,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &1961437569928293538
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6299568057542092326}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &7208096679441838194
 GameObject:
   m_ObjectHideFlags: 0
@@ -2289,6 +2009,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8561177771385467509}
+  - component: {fileID: 5957812554107323585}
   m_Layer: 0
   m_Name: Firebar
   m_TagString: Untagged
@@ -2323,6 +2044,19 @@ Transform:
   - {fileID: 3073119007147655990}
   m_Father: {fileID: 1491636048280085626}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5957812554107323585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7208096679441838194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec108e88fb11014438f928ddd8f4ae65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 90
 --- !u!1 &7562089347355066531
 GameObject:
   m_ObjectHideFlags: 0
@@ -2336,7 +2070,6 @@ GameObject:
   - component: {fileID: 2970185869172207995}
   - component: {fileID: 8548394240390705805}
   - component: {fileID: 6514754610900587474}
-  - component: {fileID: 3797615249359889715}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (4)
   m_TagString: Untagged
@@ -2524,33 +2257,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &3797615249359889715
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7562089347355066531}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!1 &8444709552150763290
 GameObject:
   m_ObjectHideFlags: 0
@@ -2652,7 +2358,6 @@ GameObject:
   - component: {fileID: 7523528786032392144}
   - component: {fileID: 5455013832951552731}
   - component: {fileID: 8223815422720862573}
-  - component: {fileID: 4803646484062096394}
   m_Layer: 0
   m_Name: anit-Clockwise fireball firebar (10)
   m_TagString: Untagged
@@ -2840,30 +2545,3 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.25
---- !u!50 &4803646484062096394
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9039049848929331458}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0

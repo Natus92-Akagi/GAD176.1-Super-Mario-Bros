@@ -549,8 +549,10 @@ MonoBehaviour:
   VirtualChannelSettings: []
   RealChannelSettings: []
   Plugins: []
-  MasterBanks: []
-  Banks: []
+  MasterBanks:
+  - Master
+  Banks:
+  - Super Mario Bros
   BanksToLoad: []
   LiveUpdatePort: 9264
   EnableMemoryTracking: 0
@@ -566,18 +568,18 @@ MonoBehaviour:
   HideSetupWizard: 1
   LastEventReferenceScanVersion: 131858
   Platforms:
-  - {fileID: -237352808943262514}
-  - {fileID: 3746216172015889594}
   - {fileID: -8918061779195982562}
-  - {fileID: 8484033497246032171}
+  - {fileID: -8185722829493031321}
   - {fileID: -4085826512252930759}
+  - {fileID: -3926344071341672926}
+  - {fileID: -1769193614731335951}
+  - {fileID: -1245578137418021248}
+  - {fileID: -237352808943262514}
   - {fileID: 1026302959512432268}
   - {fileID: 1339390151363430498}
-  - {fileID: -1245578137418021248}
-  - {fileID: -1769193614731335951}
-  - {fileID: -8185722829493031321}
+  - {fileID: 3746216172015889594}
   - {fileID: 5287833123707776971}
-  - {fileID: -3926344071341672926}
+  - {fileID: 8484033497246032171}
   MigratedPlatforms: 0a00000000000000150000000b00000009000000050000001200000008000000060000000c0000000200000001000000
 --- !u!114 &1026302959512432268
 MonoBehaviour:
@@ -796,15 +798,15 @@ MonoBehaviour:
   displaySortOrder: 0
   childIdentifiers:
   - 2fea114e74ecf3c4f920e1d5cc1c4c40
-  - c88d16e5272a4e241b0ef0ac2e53b73d
+  - 46fbfdf3fc43db0458918377fd40293e
   - 2c5177b11d81d824dbb064f9ac8527da
+  - b7716510a1f36934c87976f3a81dbf3d
+  - 0f8eb3f400726694eb47beb1a9f94ce8
+  - 52eb9df5db46521439908db3a29a1bbb
   - e7a046c753c3c3d4aacc91f6597f310d
   - fd7c55dab0fce234b8c25f6ffca523c1
-  - 52eb9df5db46521439908db3a29a1bbb
-  - 0f8eb3f400726694eb47beb1a9f94ce8
-  - 46fbfdf3fc43db0458918377fd40293e
   - de700ef3f37a49b58a57ae3addf01ad9
-  - b7716510a1f36934c87976f3a81dbf3d
+  - c88d16e5272a4e241b0ef0ac2e53b73d
   codecChannels:
     Value: []
     HasValue: 0

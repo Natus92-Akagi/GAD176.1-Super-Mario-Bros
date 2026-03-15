@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4771768227862411527}
   - component: {fileID: 6084640385441340867}
   - component: {fileID: 6866301470346193377}
+  - component: {fileID: 4495724929465345017}
   m_Layer: 6
   m_Name: underground 1-up mushroom
   m_TagString: Item
@@ -115,7 +116,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!60 &6866301470346193377
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -178,3 +179,17 @@ PolygonCollider2D:
       - {x: 1, y: 0.265625}
       - {x: 1, y: 0.765625}
   m_UseDelaunayMesh: 0
+--- !u!114 &4495724929465345017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7371585948703139198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaf81d42e859f143986d30f0114f36f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: 3
+  scoreValue: 0

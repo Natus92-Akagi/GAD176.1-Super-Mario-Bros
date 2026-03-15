@@ -93,9 +93,9 @@ public class SuperMarioBrosCamera : MonoBehaviour
             player.position = new Vector2(leftEdge, player.position.y);
             player.linearVelocity = new Vector2(0, player.linearVelocity.y);
         } 
-        if (transform.position.x > levelData.cameraStop)
+        if (transform.position.x > levelData.cameraXStop)
         {
-            transform.position = new Vector3(levelData.cameraStop, FixedY, -10F);
+            transform.position = new Vector3(levelData.cameraXStop, FixedY, -10F);
         } 
 
     }

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 5bcfde72fc8a3984192a938aac2b66ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 319790689862215856
+    second: Lava slashp effect_normal_0
+  - first:
+      213: -5522595668660449213
+    second: Lava slashp effect_normal_1
+  - first:
+      213: -7386006174685909413
+    second: Lava slashp effect_normal_2
+  - first:
+      213: 7380783821827902193
+    second: Lava slashp effect_normal_3
+  - first:
+      213: 7249590715178180999
+    second: Lava slashp effect_normal_4
+  - first:
+      213: 3811652457991684951
+    second: Lava slashp effect_normal_5
+  - first:
+      213: 6535228301365986768
+    second: Lava slashp effect_normal_6
+  - first:
+      213: 3512287638972214852
+    second: Lava slashp effect_normal_7
+  - first:
+      213: -2151557834051737720
+    second: Lava slashp effect_normal_8
+  - first:
+      213: 4113932122322073336
+    second: Lava slashp effect_normal_9
+  - first:
+      213: 8380446189890468052
+    second: Lava slashp effect_normal_10
+  - first:
+      213: 7716091641218060415
+    second: Lava slashp effect_normal_11
+  - first:
+      213: 3462730485700983503
+    second: Lava slashp effect_normal_12
+  - first:
+      213: 2147588820650854927
+    second: Lava slashp effect_normal_13
+  - first:
+      213: -700131726523655391
+    second: Lava slashp effect_normal_14
+  - first:
+      213: 3477184267301833878
+    second: Lava slashp effect_normal_15
+  - first:
+      213: -8746774596257874916
+    second: Lava slashp effect_normal_16
+  - first:
+      213: -9047184282360651542
+    second: Lava slashp effect_normal_17
+  - first:
+      213: 7621790388623000634
+    second: Lava slashp effect_normal_18
+  - first:
+      213: 4945401589341997708
+    second: Lava slashp effect_normal_19
+  - first:
+      213: -9037327256219836730
+    second: Lava slashp effect_normal_20
+  - first:
+      213: 5353315812764422929
+    second: Lava slashp effect_normal_21
+  - first:
+      213: 6086392028047613179
+    second: Lava slashp effect_normal_22
+  - first:
+      213: -2757712280329006437
+    second: Lava slashp effect_normal_23
+  - first:
+      213: -6732367003340509049
+    second: Lava slashp effect_normal_24
+  - first:
+      213: 7413795104205330409
+    second: Lava slashp effect_normal_25
+  - first:
+      213: 270640010978773655
+    second: Lava slashp effect_normal_26
+  - first:
+      213: 6645905500275886748
+    second: Lava slashp effect_normal_27
+  - first:
+      213: 5208176669600850117
+    second: Lava slashp effect_normal_28
+  - first:
+      213: -2591848358765046597
+    second: Lava slashp effect_normal_29
+  - first:
+      213: -1869042279977149364
+    second: Lava slashp effect_normal_30
+  - first:
+      213: 240368083597580789
+    second: Lava slashp effect_normal_31
+  - first:
+      213: 7253946516720513319
+    second: Lava slashp effect_normal_32
+  - first:
+      213: 8504010361294543287
+    second: Lava slashp effect_normal_33
+  - first:
+      213: -6771650453848230648
+    second: Lava slashp effect_normal_34
+  - first:
+      213: 3746267446807920570
+    second: Lava slashp effect_normal_35
+  - first:
+      213: -8117451529833036384
+    second: Lava slashp effect_normal_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 15
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8e6b720ff107400800000000000000
+      internalID: 319790689862215856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 15
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3401263df7ccb53b0800000000000000
+      internalID: -5522595668660449213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e21015482af7990800000000000000
+      internalID: -7386006174685909413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa8008e7cfcd6660800000000000000
+      internalID: 7380783821827902193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_4
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7816a217858bb9460800000000000000
+      internalID: 7249590715178180999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753c6dd27b5b5e430800000000000000
+      internalID: 3811652457991684951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 19
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5cff4d38bc1ba50800000000000000
+      internalID: 6535228301365986768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 19
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e2fedaff62eb030800000000000000
+      internalID: 3512287638972214852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 23
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88723a3ac812422e0800000000000000
+      internalID: -2151557834051737720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 23
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6731df77f971930800000000000000
+      internalID: 4113932122322073336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 11
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d872bf78635d4470800000000000000
+      internalID: 8380446189890468052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 27
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70d9215770151b60800000000000000
+      internalID: 7716091641218060415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 27
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca7f19c7071e0030800000000000000
+      internalID: 3462730485700983503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 11
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a8e7a67a4cdcd10800000000000000
+      internalID: 2147588820650854927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b939877e1a846f0800000000000000
+      internalID: -700131726523655391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c4a1f0ba0714030800000000000000
+      internalID: 3477184267301833878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_16
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c73abd8d63d9680800000000000000
+      internalID: -8746774596257874916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 35
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0656844d1f17280800000000000000
+      internalID: -9047184282360651542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_18
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344c5af9f906c960800000000000000
+      internalID: 7621790388623000634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ac16c2b8891a440800000000000000
+      internalID: 4945401589341997708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_20
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 43
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce9f060eb6f49280800000000000000
+      internalID: -9037327256219836730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 7
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1131e4e5e5cca4a40800000000000000
+      internalID: 5353315812764422929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc1c8b6d45377450800000000000000
+      internalID: 6086392028047613179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92d142ca43aab9d0800000000000000
+      internalID: -2757712280329006437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 11
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780f35c41e3d192a0800000000000000
+      internalID: -6732367003340509049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e750b70e5713e660800000000000000
+      internalID: 7413795104205330409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac564f7a181c300800000000000000
+      internalID: 270640010978773655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_27
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a42ca47dffa3c50800000000000000
+      internalID: 6645905500275886748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_28
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0290f3619274840800000000000000
+      internalID: 5208176669600850117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4512066a7e70cd0800000000000000
+      internalID: -2591848358765046597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_30
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c96cfe2f3df06e0800000000000000
+      internalID: -1869042279977149364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_31
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9dc2e9f75f55300800000000000000
+      internalID: 240368083597580789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721fec48ce13ba460800000000000000
+      internalID: 7253946516720513319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d33f0e50540670800000000000000
+      internalID: 8504010361294543287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805734b3ac34602a0800000000000000
+      internalID: -6771650453848230648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7890f46a6df330800000000000000
+      internalID: 3746267446807920570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava slashp effect_normal_36
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5c9da77d4095f80800000000000000
+      internalID: -8117451529833036384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lava slashp effect_normal_0: 319790689862215856
+      Lava slashp effect_normal_1: -5522595668660449213
+      Lava slashp effect_normal_10: 8380446189890468052
+      Lava slashp effect_normal_11: 7716091641218060415
+      Lava slashp effect_normal_12: 3462730485700983503
+      Lava slashp effect_normal_13: 2147588820650854927
+      Lava slashp effect_normal_14: -700131726523655391
+      Lava slashp effect_normal_15: 3477184267301833878
+      Lava slashp effect_normal_16: -8746774596257874916
+      Lava slashp effect_normal_17: -9047184282360651542
+      Lava slashp effect_normal_18: 7621790388623000634
+      Lava slashp effect_normal_19: 4945401589341997708
+      Lava slashp effect_normal_2: -7386006174685909413
+      Lava slashp effect_normal_20: -9037327256219836730
+      Lava slashp effect_normal_21: 5353315812764422929
+      Lava slashp effect_normal_22: 6086392028047613179
+      Lava slashp effect_normal_23: -2757712280329006437
+      Lava slashp effect_normal_24: -6732367003340509049
+      Lava slashp effect_normal_25: 7413795104205330409
+      Lava slashp effect_normal_26: 270640010978773655
+      Lava slashp effect_normal_27: 6645905500275886748
+      Lava slashp effect_normal_28: 5208176669600850117
+      Lava slashp effect_normal_29: -2591848358765046597
+      Lava slashp effect_normal_3: 7380783821827902193
+      Lava slashp effect_normal_30: -1869042279977149364
+      Lava slashp effect_normal_31: 240368083597580789
+      Lava slashp effect_normal_32: 7253946516720513319
+      Lava slashp effect_normal_33: 8504010361294543287
+      Lava slashp effect_normal_34: -6771650453848230648
+      Lava slashp effect_normal_35: 3746267446807920570
+      Lava slashp effect_normal_36: -8117451529833036384
+      Lava slashp effect_normal_4: 7249590715178180999
+      Lava slashp effect_normal_5: 3811652457991684951
+      Lava slashp effect_normal_6: 6535228301365986768
+      Lava slashp effect_normal_7: 3512287638972214852
+      Lava slashp effect_normal_8: -2151557834051737720
+      Lava slashp effect_normal_9: 4113932122322073336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

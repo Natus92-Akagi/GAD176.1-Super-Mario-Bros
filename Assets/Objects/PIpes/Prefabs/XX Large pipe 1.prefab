@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5424608141747926796}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: XX Large pipe 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: 376904951669157193}
   - component: {fileID: 480668295995504174}
   - component: {fileID: 6183308677173495559}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pipe mid section
   m_TagString: Untagged
   m_Icon: {fileID: 0}
